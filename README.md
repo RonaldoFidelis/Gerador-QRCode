@@ -6,7 +6,7 @@
 
 <br>
 
-## Objetivo
+## Sobre o projeto
 
 - Projeto simples para criar um gerador de QRCode utilizando python.  
 
