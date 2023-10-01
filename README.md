@@ -26,7 +26,7 @@
     ```
     Após a instalação das bibliotecas, já é possivel rodar a aplicação em uma IDE, mas se quiser criar um executavel é necessario seguir as proximas etapas.
     
- 2) Instalar o 'cx_Freeze' que é umaferramenta que permite criar executáveis a partir de scripts Python.
+ 2) Instalar o 'cx_Freeze' que é uma ferramenta que permite criar executáveis a partir de scripts Python.
 
     ```python
     pip install cx-Freeze
